@@ -4,7 +4,7 @@
 #include<String.h>
 #include<malloc.h>
 #define MAX 100
-
+//hello
 struct studinfo{
 	int index;
 	int marks;
